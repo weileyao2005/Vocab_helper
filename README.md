@@ -17,7 +17,7 @@
 
 ### 方式一:直接用 exe(推荐给非开发者)
 
-1. 拿到 `扇贝生词助手.exe`(向作者索取,或从 Releases 下载),双击运行
+1. 到 **[Releases](https://github.com/weileyao2005/Vocab_helper/releases/latest)** 下载 `扇贝生词助手.exe`,双击运行
 2. 首次运行:拖框选中扇贝的**黄色提示条 + 单词**区域(框大一点没关系)
 3. 弹出设置窗:填入你自己的 **DeepSeek API Key**(在 <https://platform.deepseek.com> 申请)
 4. 之后每次双击即用
