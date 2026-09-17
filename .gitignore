@@ -1,0 +1,18 @@
+# 个人运行时数据 —— 绝不入库
+api.json
+config.json
+words.json
+history.jsonl
+queue.json
+vocab_helper.log
+logs/
+test_offline.py
+
+# Python / 构建产物
+__pycache__/
+*.pyc
+build/
+*.spec
+
+# 打包产物(exe 通过 GitHub Releases 或私下分发)
+dist/
