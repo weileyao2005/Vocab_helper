@@ -8,6 +8,10 @@ vocab_helper.log
 logs/
 test_offline.py
 
+# 发布工具与凭证 —— 绝不入库
+_push_github.py
+github_token.txt
+
 # Python / 构建产物
 __pycache__/
 *.pyc
